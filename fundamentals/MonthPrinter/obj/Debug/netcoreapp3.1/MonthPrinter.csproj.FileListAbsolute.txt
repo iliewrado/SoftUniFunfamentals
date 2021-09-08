@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\fundamentals\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.exe
+C:\Users\ray_m\source\repos\fundamentals\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.deps.json
+C:\Users\ray_m\source\repos\fundamentals\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.runtimeconfig.json
+C:\Users\ray_m\source\repos\fundamentals\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\fundamentals\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.dll
+C:\Users\ray_m\source\repos\fundamentals\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.pdb
+C:\Users\ray_m\source\repos\fundamentals\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\fundamentals\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\fundamentals\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\fundamentals\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.dll
+C:\Users\ray_m\source\repos\fundamentals\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.pdb
+C:\Users\ray_m\source\repos\fundamentals\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.genruntimeconfig.cache
+C:\Users\ray_m\source\repos\fundamentals\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\fundamentals\SumofOddNumbers\bin\Debug\netcoreapp3.1\SumofOddNumbers.exe
+C:\Users\ray_m\source\repos\fundamentals\SumofOddNumbers\bin\Debug\netcoreapp3.1\SumofOddNumbers.deps.json
+C:\Users\ray_m\source\repos\fundamentals\SumofOddNumbers\bin\Debug\netcoreapp3.1\SumofOddNumbers.runtimeconfig.json
+C:\Users\ray_m\source\repos\fundamentals\SumofOddNumbers\bin\Debug\netcoreapp3.1\SumofOddNumbers.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\fundamentals\SumofOddNumbers\bin\Debug\netcoreapp3.1\SumofOddNumbers.dll
+C:\Users\ray_m\source\repos\fundamentals\SumofOddNumbers\bin\Debug\netcoreapp3.1\SumofOddNumbers.pdb
+C:\Users\ray_m\source\repos\fundamentals\SumofOddNumbers\obj\Debug\netcoreapp3.1\SumofOddNumbers.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\fundamentals\SumofOddNumbers\obj\Debug\netcoreapp3.1\SumofOddNumbers.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\fundamentals\SumofOddNumbers\obj\Debug\netcoreapp3.1\SumofOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\fundamentals\SumofOddNumbers\obj\Debug\netcoreapp3.1\SumofOddNumbers.dll
+C:\Users\ray_m\source\repos\fundamentals\SumofOddNumbers\obj\Debug\netcoreapp3.1\SumofOddNumbers.pdb
+C:\Users\ray_m\source\repos\fundamentals\SumofOddNumbers\obj\Debug\netcoreapp3.1\SumofOddNumbers.genruntimeconfig.cache
+C:\Users\ray_m\source\repos\fundamentals\SumofOddNumbers\obj\Debug\netcoreapp3.1\SumofOddNumbers.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\fundamentals\Divisibleby3\bin\Debug\netcoreapp3.1\Divisibleby3.exe
+C:\Users\ray_m\source\repos\fundamentals\Divisibleby3\bin\Debug\netcoreapp3.1\Divisibleby3.deps.json
+C:\Users\ray_m\source\repos\fundamentals\Divisibleby3\bin\Debug\netcoreapp3.1\Divisibleby3.runtimeconfig.json
+C:\Users\ray_m\source\repos\fundamentals\Divisibleby3\bin\Debug\netcoreapp3.1\Divisibleby3.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\fundamentals\Divisibleby3\bin\Debug\netcoreapp3.1\Divisibleby3.dll
+C:\Users\ray_m\source\repos\fundamentals\Divisibleby3\bin\Debug\netcoreapp3.1\Divisibleby3.pdb
+C:\Users\ray_m\source\repos\fundamentals\Divisibleby3\obj\Debug\netcoreapp3.1\Divisibleby3.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\fundamentals\Divisibleby3\obj\Debug\netcoreapp3.1\Divisibleby3.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\fundamentals\Divisibleby3\obj\Debug\netcoreapp3.1\Divisibleby3.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\fundamentals\Divisibleby3\obj\Debug\netcoreapp3.1\Divisibleby3.dll
+C:\Users\ray_m\source\repos\fundamentals\Divisibleby3\obj\Debug\netcoreapp3.1\Divisibleby3.pdb
+C:\Users\ray_m\source\repos\fundamentals\Divisibleby3\obj\Debug\netcoreapp3.1\Divisibleby3.genruntimeconfig.cache
+C:\Users\ray_m\source\repos\fundamentals\Divisibleby3\obj\Debug\netcoreapp3.1\Divisibleby3.csproj.AssemblyReference.cache

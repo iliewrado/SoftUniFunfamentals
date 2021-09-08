@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\fundamentals\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.exe
+C:\Users\ray_m\source\repos\fundamentals\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.deps.json
+C:\Users\ray_m\source\repos\fundamentals\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.runtimeconfig.json
+C:\Users\ray_m\source\repos\fundamentals\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\fundamentals\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.dll
+C:\Users\ray_m\source\repos\fundamentals\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.pdb
+C:\Users\ray_m\source\repos\fundamentals\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\fundamentals\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\fundamentals\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\fundamentals\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.dll
+C:\Users\ray_m\source\repos\fundamentals\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.pdb
+C:\Users\ray_m\source\repos\fundamentals\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.genruntimeconfig.cache
+C:\Users\ray_m\source\repos\fundamentals\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.csproj.AssemblyReference.cache

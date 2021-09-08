@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\fundamentals\basicSintaxisLab\bin\Debug\netcoreapp3.1\basicSintaxisLab.exe
+C:\Users\ray_m\source\repos\fundamentals\basicSintaxisLab\bin\Debug\netcoreapp3.1\basicSintaxisLab.deps.json
+C:\Users\ray_m\source\repos\fundamentals\basicSintaxisLab\bin\Debug\netcoreapp3.1\basicSintaxisLab.runtimeconfig.json
+C:\Users\ray_m\source\repos\fundamentals\basicSintaxisLab\bin\Debug\netcoreapp3.1\basicSintaxisLab.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\fundamentals\basicSintaxisLab\bin\Debug\netcoreapp3.1\basicSintaxisLab.dll
+C:\Users\ray_m\source\repos\fundamentals\basicSintaxisLab\bin\Debug\netcoreapp3.1\basicSintaxisLab.pdb
+C:\Users\ray_m\source\repos\fundamentals\basicSintaxisLab\obj\Debug\netcoreapp3.1\basicSintaxisLab.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\fundamentals\basicSintaxisLab\obj\Debug\netcoreapp3.1\basicSintaxisLab.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\fundamentals\basicSintaxisLab\obj\Debug\netcoreapp3.1\basicSintaxisLab.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\fundamentals\basicSintaxisLab\obj\Debug\netcoreapp3.1\basicSintaxisLab.dll
+C:\Users\ray_m\source\repos\fundamentals\basicSintaxisLab\obj\Debug\netcoreapp3.1\basicSintaxisLab.pdb
+C:\Users\ray_m\source\repos\fundamentals\basicSintaxisLab\obj\Debug\netcoreapp3.1\basicSintaxisLab.genruntimeconfig.cache
+C:\Users\ray_m\source\repos\fundamentals\basicSintaxisLab\obj\Debug\netcoreapp3.1\basicSintaxisLab.csproj.AssemblyReference.cache
