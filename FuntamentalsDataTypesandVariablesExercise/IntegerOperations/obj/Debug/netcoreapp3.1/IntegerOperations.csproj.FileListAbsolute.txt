@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.exe
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.deps.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.dll
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.pdb
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.dll
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.pdb
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.genruntimeconfig.cache

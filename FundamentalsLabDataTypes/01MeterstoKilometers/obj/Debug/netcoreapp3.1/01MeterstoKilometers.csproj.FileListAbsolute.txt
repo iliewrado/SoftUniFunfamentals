@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\01MeterstoKilometers\01MeterstoKilometers\bin\Debug\netcoreapp3.1\01MeterstoKilometers.exe
+C:\Users\ray_m\source\repos\01MeterstoKilometers\01MeterstoKilometers\bin\Debug\netcoreapp3.1\01MeterstoKilometers.deps.json
+C:\Users\ray_m\source\repos\01MeterstoKilometers\01MeterstoKilometers\bin\Debug\netcoreapp3.1\01MeterstoKilometers.runtimeconfig.json
+C:\Users\ray_m\source\repos\01MeterstoKilometers\01MeterstoKilometers\bin\Debug\netcoreapp3.1\01MeterstoKilometers.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\01MeterstoKilometers\01MeterstoKilometers\bin\Debug\netcoreapp3.1\01MeterstoKilometers.dll
+C:\Users\ray_m\source\repos\01MeterstoKilometers\01MeterstoKilometers\bin\Debug\netcoreapp3.1\01MeterstoKilometers.pdb
+C:\Users\ray_m\source\repos\01MeterstoKilometers\01MeterstoKilometers\obj\Debug\netcoreapp3.1\01MeterstoKilometers.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\01MeterstoKilometers\01MeterstoKilometers\obj\Debug\netcoreapp3.1\01MeterstoKilometers.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\01MeterstoKilometers\01MeterstoKilometers\obj\Debug\netcoreapp3.1\01MeterstoKilometers.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\01MeterstoKilometers\01MeterstoKilometers\obj\Debug\netcoreapp3.1\01MeterstoKilometers.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\01MeterstoKilometers\01MeterstoKilometers\obj\Debug\netcoreapp3.1\01MeterstoKilometers.dll
+C:\Users\ray_m\source\repos\01MeterstoKilometers\01MeterstoKilometers\obj\Debug\netcoreapp3.1\01MeterstoKilometers.pdb
+C:\Users\ray_m\source\repos\01MeterstoKilometers\01MeterstoKilometers\obj\Debug\netcoreapp3.1\01MeterstoKilometers.genruntimeconfig.cache

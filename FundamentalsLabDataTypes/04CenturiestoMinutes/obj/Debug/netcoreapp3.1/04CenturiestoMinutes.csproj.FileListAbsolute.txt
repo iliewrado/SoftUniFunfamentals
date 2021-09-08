@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\01MeterstoKilometers\04CenturiestoMinutes\bin\Debug\netcoreapp3.1\04CenturiestoMinutes.exe
+C:\Users\ray_m\source\repos\01MeterstoKilometers\04CenturiestoMinutes\bin\Debug\netcoreapp3.1\04CenturiestoMinutes.deps.json
+C:\Users\ray_m\source\repos\01MeterstoKilometers\04CenturiestoMinutes\bin\Debug\netcoreapp3.1\04CenturiestoMinutes.runtimeconfig.json
+C:\Users\ray_m\source\repos\01MeterstoKilometers\04CenturiestoMinutes\bin\Debug\netcoreapp3.1\04CenturiestoMinutes.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\01MeterstoKilometers\04CenturiestoMinutes\bin\Debug\netcoreapp3.1\04CenturiestoMinutes.dll
+C:\Users\ray_m\source\repos\01MeterstoKilometers\04CenturiestoMinutes\bin\Debug\netcoreapp3.1\04CenturiestoMinutes.pdb
+C:\Users\ray_m\source\repos\01MeterstoKilometers\04CenturiestoMinutes\obj\Debug\netcoreapp3.1\04CenturiestoMinutes.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\01MeterstoKilometers\04CenturiestoMinutes\obj\Debug\netcoreapp3.1\04CenturiestoMinutes.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\01MeterstoKilometers\04CenturiestoMinutes\obj\Debug\netcoreapp3.1\04CenturiestoMinutes.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\01MeterstoKilometers\04CenturiestoMinutes\obj\Debug\netcoreapp3.1\04CenturiestoMinutes.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\01MeterstoKilometers\04CenturiestoMinutes\obj\Debug\netcoreapp3.1\04CenturiestoMinutes.dll
+C:\Users\ray_m\source\repos\01MeterstoKilometers\04CenturiestoMinutes\obj\Debug\netcoreapp3.1\04CenturiestoMinutes.pdb
+C:\Users\ray_m\source\repos\01MeterstoKilometers\04CenturiestoMinutes\obj\Debug\netcoreapp3.1\04CenturiestoMinutes.genruntimeconfig.cache

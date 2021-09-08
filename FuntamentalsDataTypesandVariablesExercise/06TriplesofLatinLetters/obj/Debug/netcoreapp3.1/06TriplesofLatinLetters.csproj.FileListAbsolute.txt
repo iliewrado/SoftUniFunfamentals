@@ -1,0 +1,12 @@
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\06TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06TriplesofLatinLetters.exe
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\06TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06TriplesofLatinLetters.deps.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\06TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06TriplesofLatinLetters.runtimeconfig.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\06TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06TriplesofLatinLetters.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\06TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06TriplesofLatinLetters.dll
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\06TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06TriplesofLatinLetters.pdb
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\06TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06TriplesofLatinLetters.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\06TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06TriplesofLatinLetters.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\06TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06TriplesofLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\06TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06TriplesofLatinLetters.dll
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\06TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06TriplesofLatinLetters.pdb
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\06TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06TriplesofLatinLetters.genruntimeconfig.cache

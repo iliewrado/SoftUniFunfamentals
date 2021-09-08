@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\04SumofChars\bin\Debug\netcoreapp3.1\04SumofChars.exe
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\04SumofChars\bin\Debug\netcoreapp3.1\04SumofChars.deps.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\04SumofChars\bin\Debug\netcoreapp3.1\04SumofChars.runtimeconfig.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\04SumofChars\bin\Debug\netcoreapp3.1\04SumofChars.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\04SumofChars\bin\Debug\netcoreapp3.1\04SumofChars.dll
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\04SumofChars\bin\Debug\netcoreapp3.1\04SumofChars.pdb
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\04SumofChars\obj\Debug\netcoreapp3.1\04SumofChars.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\04SumofChars\obj\Debug\netcoreapp3.1\04SumofChars.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\04SumofChars\obj\Debug\netcoreapp3.1\04SumofChars.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\04SumofChars\obj\Debug\netcoreapp3.1\04SumofChars.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\04SumofChars\obj\Debug\netcoreapp3.1\04SumofChars.dll
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\04SumofChars\obj\Debug\netcoreapp3.1\04SumofChars.pdb
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\04SumofChars\obj\Debug\netcoreapp3.1\04SumofChars.genruntimeconfig.cache

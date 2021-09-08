@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\01MeterstoKilometers\10LowerorUpper\bin\Debug\netcoreapp3.1\10LowerorUpper.exe
+C:\Users\ray_m\source\repos\01MeterstoKilometers\10LowerorUpper\bin\Debug\netcoreapp3.1\10LowerorUpper.deps.json
+C:\Users\ray_m\source\repos\01MeterstoKilometers\10LowerorUpper\bin\Debug\netcoreapp3.1\10LowerorUpper.runtimeconfig.json
+C:\Users\ray_m\source\repos\01MeterstoKilometers\10LowerorUpper\bin\Debug\netcoreapp3.1\10LowerorUpper.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\01MeterstoKilometers\10LowerorUpper\bin\Debug\netcoreapp3.1\10LowerorUpper.dll
+C:\Users\ray_m\source\repos\01MeterstoKilometers\10LowerorUpper\bin\Debug\netcoreapp3.1\10LowerorUpper.pdb
+C:\Users\ray_m\source\repos\01MeterstoKilometers\10LowerorUpper\obj\Debug\netcoreapp3.1\10LowerorUpper.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\01MeterstoKilometers\10LowerorUpper\obj\Debug\netcoreapp3.1\10LowerorUpper.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\01MeterstoKilometers\10LowerorUpper\obj\Debug\netcoreapp3.1\10LowerorUpper.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\01MeterstoKilometers\10LowerorUpper\obj\Debug\netcoreapp3.1\10LowerorUpper.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\01MeterstoKilometers\10LowerorUpper\obj\Debug\netcoreapp3.1\10LowerorUpper.dll
+C:\Users\ray_m\source\repos\01MeterstoKilometers\10LowerorUpper\obj\Debug\netcoreapp3.1\10LowerorUpper.pdb
+C:\Users\ray_m\source\repos\01MeterstoKilometers\10LowerorUpper\obj\Debug\netcoreapp3.1\10LowerorUpper.genruntimeconfig.cache

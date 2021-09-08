@@ -1,0 +1,12 @@
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\05PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05PrintPartOfASCIITable.exe
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\05PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05PrintPartOfASCIITable.deps.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\05PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05PrintPartOfASCIITable.runtimeconfig.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\05PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05PrintPartOfASCIITable.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\05PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05PrintPartOfASCIITable.dll
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\05PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05PrintPartOfASCIITable.pdb
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\05PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05PrintPartOfASCIITable.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\05PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05PrintPartOfASCIITable.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\05PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\05PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05PrintPartOfASCIITable.dll
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\05PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05PrintPartOfASCIITable.pdb
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\05PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05PrintPartOfASCIITable.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.exe
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.deps.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.runtimeconfig.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.dll
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.pdb
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.dll
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.pdb
+C:\Users\ray_m\source\repos\FuntamentalsDataTypesandVariablesExercise\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.genruntimeconfig.cache

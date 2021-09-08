@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\01MeterstoKilometers\06ReversedChars\bin\Debug\netcoreapp3.1\06ReversedChars.exe
+C:\Users\ray_m\source\repos\01MeterstoKilometers\06ReversedChars\bin\Debug\netcoreapp3.1\06ReversedChars.deps.json
+C:\Users\ray_m\source\repos\01MeterstoKilometers\06ReversedChars\bin\Debug\netcoreapp3.1\06ReversedChars.runtimeconfig.json
+C:\Users\ray_m\source\repos\01MeterstoKilometers\06ReversedChars\bin\Debug\netcoreapp3.1\06ReversedChars.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\01MeterstoKilometers\06ReversedChars\bin\Debug\netcoreapp3.1\06ReversedChars.dll
+C:\Users\ray_m\source\repos\01MeterstoKilometers\06ReversedChars\bin\Debug\netcoreapp3.1\06ReversedChars.pdb
+C:\Users\ray_m\source\repos\01MeterstoKilometers\06ReversedChars\obj\Debug\netcoreapp3.1\06ReversedChars.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\01MeterstoKilometers\06ReversedChars\obj\Debug\netcoreapp3.1\06ReversedChars.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\01MeterstoKilometers\06ReversedChars\obj\Debug\netcoreapp3.1\06ReversedChars.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\01MeterstoKilometers\06ReversedChars\obj\Debug\netcoreapp3.1\06ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\01MeterstoKilometers\06ReversedChars\obj\Debug\netcoreapp3.1\06ReversedChars.dll
+C:\Users\ray_m\source\repos\01MeterstoKilometers\06ReversedChars\obj\Debug\netcoreapp3.1\06ReversedChars.pdb
+C:\Users\ray_m\source\repos\01MeterstoKilometers\06ReversedChars\obj\Debug\netcoreapp3.1\06ReversedChars.genruntimeconfig.cache
