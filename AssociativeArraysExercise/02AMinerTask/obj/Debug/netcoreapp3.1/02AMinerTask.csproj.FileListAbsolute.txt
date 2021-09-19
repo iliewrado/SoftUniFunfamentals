@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\AssociativeArraysExercise\02AMinerTask\bin\Debug\netcoreapp3.1\02AMinerTask.exe
+C:\Users\ray_m\source\repos\AssociativeArraysExercise\02AMinerTask\bin\Debug\netcoreapp3.1\02AMinerTask.deps.json
+C:\Users\ray_m\source\repos\AssociativeArraysExercise\02AMinerTask\bin\Debug\netcoreapp3.1\02AMinerTask.runtimeconfig.json
+C:\Users\ray_m\source\repos\AssociativeArraysExercise\02AMinerTask\bin\Debug\netcoreapp3.1\02AMinerTask.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\AssociativeArraysExercise\02AMinerTask\bin\Debug\netcoreapp3.1\02AMinerTask.dll
+C:\Users\ray_m\source\repos\AssociativeArraysExercise\02AMinerTask\bin\Debug\netcoreapp3.1\02AMinerTask.pdb
+C:\Users\ray_m\source\repos\AssociativeArraysExercise\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\AssociativeArraysExercise\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\AssociativeArraysExercise\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\AssociativeArraysExercise\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\AssociativeArraysExercise\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.dll
+C:\Users\ray_m\source\repos\AssociativeArraysExercise\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.pdb
+C:\Users\ray_m\source\repos\AssociativeArraysExercise\02AMinerTask\obj\Debug\netcoreapp3.1\02AMinerTask.genruntimeconfig.cache

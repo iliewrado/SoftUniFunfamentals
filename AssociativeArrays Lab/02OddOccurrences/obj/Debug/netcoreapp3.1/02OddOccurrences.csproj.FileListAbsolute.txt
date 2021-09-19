@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\02OddOccurrences\bin\Debug\netcoreapp3.1\02OddOccurrences.exe
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\02OddOccurrences\bin\Debug\netcoreapp3.1\02OddOccurrences.deps.json
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\02OddOccurrences\bin\Debug\netcoreapp3.1\02OddOccurrences.runtimeconfig.json
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\02OddOccurrences\bin\Debug\netcoreapp3.1\02OddOccurrences.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\02OddOccurrences\bin\Debug\netcoreapp3.1\02OddOccurrences.dll
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\02OddOccurrences\bin\Debug\netcoreapp3.1\02OddOccurrences.pdb
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\02OddOccurrences\obj\Debug\netcoreapp3.1\02OddOccurrences.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\02OddOccurrences\obj\Debug\netcoreapp3.1\02OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\02OddOccurrences\obj\Debug\netcoreapp3.1\02OddOccurrences.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\02OddOccurrences\obj\Debug\netcoreapp3.1\02OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\02OddOccurrences\obj\Debug\netcoreapp3.1\02OddOccurrences.dll
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\02OddOccurrences\obj\Debug\netcoreapp3.1\02OddOccurrences.pdb
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\02OddOccurrences\obj\Debug\netcoreapp3.1\02OddOccurrences.genruntimeconfig.cache

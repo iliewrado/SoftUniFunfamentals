@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\04Largest3Numbers\bin\Debug\netcoreapp3.1\04Largest3Numbers.exe
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\04Largest3Numbers\bin\Debug\netcoreapp3.1\04Largest3Numbers.deps.json
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\04Largest3Numbers\bin\Debug\netcoreapp3.1\04Largest3Numbers.runtimeconfig.json
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\04Largest3Numbers\bin\Debug\netcoreapp3.1\04Largest3Numbers.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\04Largest3Numbers\bin\Debug\netcoreapp3.1\04Largest3Numbers.dll
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\04Largest3Numbers\bin\Debug\netcoreapp3.1\04Largest3Numbers.pdb
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\04Largest3Numbers\obj\Debug\netcoreapp3.1\04Largest3Numbers.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\04Largest3Numbers\obj\Debug\netcoreapp3.1\04Largest3Numbers.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\04Largest3Numbers\obj\Debug\netcoreapp3.1\04Largest3Numbers.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\04Largest3Numbers\obj\Debug\netcoreapp3.1\04Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\04Largest3Numbers\obj\Debug\netcoreapp3.1\04Largest3Numbers.dll
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\04Largest3Numbers\obj\Debug\netcoreapp3.1\04Largest3Numbers.pdb
+C:\Users\ray_m\source\repos\AssociativeArrays Lab\04Largest3Numbers\obj\Debug\netcoreapp3.1\04Largest3Numbers.genruntimeconfig.cache
