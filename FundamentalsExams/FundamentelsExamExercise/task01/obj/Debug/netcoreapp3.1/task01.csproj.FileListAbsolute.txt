@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\task01\bin\Debug\netcoreapp3.1\task01.exe
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\task01\bin\Debug\netcoreapp3.1\task01.deps.json
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\task01\bin\Debug\netcoreapp3.1\task01.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\task01\bin\Debug\netcoreapp3.1\task01.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\task01\bin\Debug\netcoreapp3.1\task01.dll
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\task01\bin\Debug\netcoreapp3.1\task01.pdb
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\task01\obj\Debug\netcoreapp3.1\task01.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\task01\obj\Debug\netcoreapp3.1\task01.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\task01\obj\Debug\netcoreapp3.1\task01.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\task01\obj\Debug\netcoreapp3.1\task01.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\task01\obj\Debug\netcoreapp3.1\task01.dll
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\task01\obj\Debug\netcoreapp3.1\task01.pdb
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\task01\obj\Debug\netcoreapp3.1\task01.genruntimeconfig.cache

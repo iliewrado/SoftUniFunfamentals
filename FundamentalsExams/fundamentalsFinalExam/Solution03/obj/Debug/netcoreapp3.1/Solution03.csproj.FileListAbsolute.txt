@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\fundamentalsFinalExam\Solution03\bin\Debug\netcoreapp3.1\Solution03.exe
+D:\Users\ray_m\source\fundamentalsFinalExam\Solution03\bin\Debug\netcoreapp3.1\Solution03.deps.json
+D:\Users\ray_m\source\fundamentalsFinalExam\Solution03\bin\Debug\netcoreapp3.1\Solution03.runtimeconfig.json
+D:\Users\ray_m\source\fundamentalsFinalExam\Solution03\bin\Debug\netcoreapp3.1\Solution03.runtimeconfig.dev.json
+D:\Users\ray_m\source\fundamentalsFinalExam\Solution03\bin\Debug\netcoreapp3.1\Solution03.dll
+D:\Users\ray_m\source\fundamentalsFinalExam\Solution03\bin\Debug\netcoreapp3.1\Solution03.pdb
+D:\Users\ray_m\source\fundamentalsFinalExam\Solution03\obj\Debug\netcoreapp3.1\Solution03.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\fundamentalsFinalExam\Solution03\obj\Debug\netcoreapp3.1\Solution03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\fundamentalsFinalExam\Solution03\obj\Debug\netcoreapp3.1\Solution03.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\fundamentalsFinalExam\Solution03\obj\Debug\netcoreapp3.1\Solution03.AssemblyInfo.cs
+D:\Users\ray_m\source\fundamentalsFinalExam\Solution03\obj\Debug\netcoreapp3.1\Solution03.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\fundamentalsFinalExam\Solution03\obj\Debug\netcoreapp3.1\Solution03.dll
+D:\Users\ray_m\source\fundamentalsFinalExam\Solution03\obj\Debug\netcoreapp3.1\Solution03.pdb
+D:\Users\ray_m\source\fundamentalsFinalExam\Solution03\obj\Debug\netcoreapp3.1\Solution03.genruntimeconfig.cache

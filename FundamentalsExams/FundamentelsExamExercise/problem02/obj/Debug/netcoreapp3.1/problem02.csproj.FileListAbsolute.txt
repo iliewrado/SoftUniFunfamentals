@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\problem02\bin\Debug\netcoreapp3.1\problem02.exe
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\problem02\bin\Debug\netcoreapp3.1\problem02.deps.json
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\problem02\bin\Debug\netcoreapp3.1\problem02.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\problem02\bin\Debug\netcoreapp3.1\problem02.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\problem02\bin\Debug\netcoreapp3.1\problem02.dll
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\problem02\bin\Debug\netcoreapp3.1\problem02.pdb
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\problem02\obj\Debug\netcoreapp3.1\problem02.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\problem02\obj\Debug\netcoreapp3.1\problem02.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\problem02\obj\Debug\netcoreapp3.1\problem02.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\problem02\obj\Debug\netcoreapp3.1\problem02.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\problem02\obj\Debug\netcoreapp3.1\problem02.dll
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\problem02\obj\Debug\netcoreapp3.1\problem02.pdb
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\problem02\obj\Debug\netcoreapp3.1\problem02.genruntimeconfig.cache

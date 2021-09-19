@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\pract02\bin\Debug\netcoreapp2.1\pract02.deps.json
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\pract02\bin\Debug\netcoreapp2.1\pract02.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\pract02\bin\Debug\netcoreapp2.1\pract02.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\pract02\bin\Debug\netcoreapp2.1\pract02.dll
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\pract02\bin\Debug\netcoreapp2.1\pract02.pdb
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\pract02\obj\Debug\netcoreapp2.1\pract02.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\pract02\obj\Debug\netcoreapp2.1\pract02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\pract02\obj\Debug\netcoreapp2.1\pract02.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\pract02\obj\Debug\netcoreapp2.1\pract02.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\pract02\obj\Debug\netcoreapp2.1\pract02.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\pract02\obj\Debug\netcoreapp2.1\pract02.dll
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\pract02\obj\Debug\netcoreapp2.1\pract02.pdb
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\pract02\obj\Debug\netcoreapp2.1\pract02.genruntimeconfig.cache

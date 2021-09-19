@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\soution03\bin\Debug\netcoreapp2.1\soution03.deps.json
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\soution03\bin\Debug\netcoreapp2.1\soution03.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\soution03\bin\Debug\netcoreapp2.1\soution03.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\soution03\bin\Debug\netcoreapp2.1\soution03.dll
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\soution03\bin\Debug\netcoreapp2.1\soution03.pdb
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\soution03\obj\Debug\netcoreapp2.1\soution03.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\soution03\obj\Debug\netcoreapp2.1\soution03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\soution03\obj\Debug\netcoreapp2.1\soution03.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\soution03\obj\Debug\netcoreapp2.1\soution03.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\soution03\obj\Debug\netcoreapp2.1\soution03.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\soution03\obj\Debug\netcoreapp2.1\soution03.dll
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\soution03\obj\Debug\netcoreapp2.1\soution03.pdb
+C:\Users\ray_m\source\repos\FundamentelsFinalExamTest\soution03\obj\Debug\netcoreapp2.1\soution03.genruntimeconfig.cache
