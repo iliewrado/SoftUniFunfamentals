@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\preFundamentalExercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.exe
+C:\Users\ray_m\source\repos\preFundamentalExercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.deps.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.runtimeconfig.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.dll
+C:\Users\ray_m\source\repos\preFundamentalExercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.pdb
+C:\Users\ray_m\source\repos\preFundamentalExercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\preFundamentalExercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.dll
+C:\Users\ray_m\source\repos\preFundamentalExercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.pdb
+C:\Users\ray_m\source\repos\preFundamentalExercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.genruntimeconfig.cache

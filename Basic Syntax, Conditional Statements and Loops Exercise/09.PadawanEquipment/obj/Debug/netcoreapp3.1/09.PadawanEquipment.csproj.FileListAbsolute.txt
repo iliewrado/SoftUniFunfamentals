@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\preFundamentalExercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.exe
+C:\Users\ray_m\source\repos\preFundamentalExercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.deps.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.runtimeconfig.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.dll
+C:\Users\ray_m\source\repos\preFundamentalExercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.pdb
+C:\Users\ray_m\source\repos\preFundamentalExercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\preFundamentalExercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.dll
+C:\Users\ray_m\source\repos\preFundamentalExercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.pdb
+C:\Users\ray_m\source\repos\preFundamentalExercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.genruntimeconfig.cache

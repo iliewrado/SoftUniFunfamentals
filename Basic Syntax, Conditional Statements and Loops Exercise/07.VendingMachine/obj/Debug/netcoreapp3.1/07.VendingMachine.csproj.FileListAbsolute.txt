@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\preFundamentalExercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.exe
+C:\Users\ray_m\source\repos\preFundamentalExercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.deps.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.runtimeconfig.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.dll
+C:\Users\ray_m\source\repos\preFundamentalExercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.pdb
+C:\Users\ray_m\source\repos\preFundamentalExercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\preFundamentalExercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.dll
+C:\Users\ray_m\source\repos\preFundamentalExercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.pdb
+C:\Users\ray_m\source\repos\preFundamentalExercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.genruntimeconfig.cache

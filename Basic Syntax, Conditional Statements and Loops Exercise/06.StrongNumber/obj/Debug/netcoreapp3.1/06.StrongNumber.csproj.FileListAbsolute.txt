@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\preFundamentalExercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\preFundamentalExercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.exe
+C:\Users\ray_m\source\repos\preFundamentalExercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.deps.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.runtimeconfig.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.dll
+C:\Users\ray_m\source\repos\preFundamentalExercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.pdb
+C:\Users\ray_m\source\repos\preFundamentalExercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.dll
+C:\Users\ray_m\source\repos\preFundamentalExercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.pdb
+C:\Users\ray_m\source\repos\preFundamentalExercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.genruntimeconfig.cache

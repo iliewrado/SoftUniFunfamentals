@@ -1,0 +1,12 @@
+C:\Users\ray_m\source\repos\preFundamentalExercise\PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.exe
+C:\Users\ray_m\source\repos\preFundamentalExercise\PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.deps.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.runtimeconfig.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.dll
+C:\Users\ray_m\source\repos\preFundamentalExercise\PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.pdb
+C:\Users\ray_m\source\repos\preFundamentalExercise\PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\preFundamentalExercise\PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.dll
+C:\Users\ray_m\source\repos\preFundamentalExercise\PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.pdb
+C:\Users\ray_m\source\repos\preFundamentalExercise\PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.genruntimeconfig.cache

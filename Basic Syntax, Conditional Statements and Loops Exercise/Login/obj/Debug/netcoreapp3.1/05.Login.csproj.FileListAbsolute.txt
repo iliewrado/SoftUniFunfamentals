@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\preFundamentalExercise\Login\bin\Debug\netcoreapp3.1\05.Login.exe
+C:\Users\ray_m\source\repos\preFundamentalExercise\Login\bin\Debug\netcoreapp3.1\05.Login.deps.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\preFundamentalExercise\Login\bin\Debug\netcoreapp3.1\05.Login.dll
+C:\Users\ray_m\source\repos\preFundamentalExercise\Login\bin\Debug\netcoreapp3.1\05.Login.pdb
+C:\Users\ray_m\source\repos\preFundamentalExercise\Login\obj\Debug\netcoreapp3.1\05.Login.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\preFundamentalExercise\Login\obj\Debug\netcoreapp3.1\05.Login.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\preFundamentalExercise\Login\obj\Debug\netcoreapp3.1\05.Login.dll
+C:\Users\ray_m\source\repos\preFundamentalExercise\Login\obj\Debug\netcoreapp3.1\05.Login.pdb
+C:\Users\ray_m\source\repos\preFundamentalExercise\Login\obj\Debug\netcoreapp3.1\05.Login.genruntimeconfig.cache
