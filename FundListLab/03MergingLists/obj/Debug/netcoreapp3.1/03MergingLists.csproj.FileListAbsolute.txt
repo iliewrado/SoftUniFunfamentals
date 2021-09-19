@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundListLab\03MergingLists\bin\Debug\netcoreapp3.1\03MergingLists.exe
+C:\Users\ray_m\source\repos\FundListLab\03MergingLists\bin\Debug\netcoreapp3.1\03MergingLists.deps.json
+C:\Users\ray_m\source\repos\FundListLab\03MergingLists\bin\Debug\netcoreapp3.1\03MergingLists.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundListLab\03MergingLists\bin\Debug\netcoreapp3.1\03MergingLists.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundListLab\03MergingLists\bin\Debug\netcoreapp3.1\03MergingLists.dll
+C:\Users\ray_m\source\repos\FundListLab\03MergingLists\bin\Debug\netcoreapp3.1\03MergingLists.pdb
+C:\Users\ray_m\source\repos\FundListLab\03MergingLists\obj\Debug\netcoreapp3.1\03MergingLists.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\FundListLab\03MergingLists\obj\Debug\netcoreapp3.1\03MergingLists.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundListLab\03MergingLists\obj\Debug\netcoreapp3.1\03MergingLists.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundListLab\03MergingLists\obj\Debug\netcoreapp3.1\03MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundListLab\03MergingLists\obj\Debug\netcoreapp3.1\03MergingLists.dll
+C:\Users\ray_m\source\repos\FundListLab\03MergingLists\obj\Debug\netcoreapp3.1\03MergingLists.pdb
+C:\Users\ray_m\source\repos\FundListLab\03MergingLists\obj\Debug\netcoreapp3.1\03MergingLists.genruntimeconfig.cache

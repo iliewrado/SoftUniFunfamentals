@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundListLab\06ListManipulationBasics\bin\Debug\netcoreapp3.1\06ListManipulationBasics.exe
+C:\Users\ray_m\source\repos\FundListLab\06ListManipulationBasics\bin\Debug\netcoreapp3.1\06ListManipulationBasics.deps.json
+C:\Users\ray_m\source\repos\FundListLab\06ListManipulationBasics\bin\Debug\netcoreapp3.1\06ListManipulationBasics.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundListLab\06ListManipulationBasics\bin\Debug\netcoreapp3.1\06ListManipulationBasics.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundListLab\06ListManipulationBasics\bin\Debug\netcoreapp3.1\06ListManipulationBasics.dll
+C:\Users\ray_m\source\repos\FundListLab\06ListManipulationBasics\bin\Debug\netcoreapp3.1\06ListManipulationBasics.pdb
+C:\Users\ray_m\source\repos\FundListLab\06ListManipulationBasics\obj\Debug\netcoreapp3.1\06ListManipulationBasics.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\FundListLab\06ListManipulationBasics\obj\Debug\netcoreapp3.1\06ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundListLab\06ListManipulationBasics\obj\Debug\netcoreapp3.1\06ListManipulationBasics.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundListLab\06ListManipulationBasics\obj\Debug\netcoreapp3.1\06ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundListLab\06ListManipulationBasics\obj\Debug\netcoreapp3.1\06ListManipulationBasics.dll
+C:\Users\ray_m\source\repos\FundListLab\06ListManipulationBasics\obj\Debug\netcoreapp3.1\06ListManipulationBasics.pdb
+C:\Users\ray_m\source\repos\FundListLab\06ListManipulationBasics\obj\Debug\netcoreapp3.1\06ListManipulationBasics.genruntimeconfig.cache

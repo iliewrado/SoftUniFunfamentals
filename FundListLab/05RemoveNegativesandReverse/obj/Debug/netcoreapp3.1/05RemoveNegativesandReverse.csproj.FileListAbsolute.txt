@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundListLab\05RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05RemoveNegativesandReverse.exe
+C:\Users\ray_m\source\repos\FundListLab\05RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05RemoveNegativesandReverse.deps.json
+C:\Users\ray_m\source\repos\FundListLab\05RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05RemoveNegativesandReverse.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundListLab\05RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05RemoveNegativesandReverse.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundListLab\05RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05RemoveNegativesandReverse.dll
+C:\Users\ray_m\source\repos\FundListLab\05RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05RemoveNegativesandReverse.pdb
+C:\Users\ray_m\source\repos\FundListLab\05RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05RemoveNegativesandReverse.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\FundListLab\05RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05RemoveNegativesandReverse.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundListLab\05RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05RemoveNegativesandReverse.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundListLab\05RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05RemoveNegativesandReverse.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundListLab\05RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05RemoveNegativesandReverse.dll
+C:\Users\ray_m\source\repos\FundListLab\05RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05RemoveNegativesandReverse.pdb
+C:\Users\ray_m\source\repos\FundListLab\05RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05RemoveNegativesandReverse.genruntimeconfig.cache

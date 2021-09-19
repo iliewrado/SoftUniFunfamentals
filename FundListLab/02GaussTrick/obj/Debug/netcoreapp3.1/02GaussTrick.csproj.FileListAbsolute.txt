@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundListLab\02GaussTrick\bin\Debug\netcoreapp3.1\02GaussTrick.exe
+C:\Users\ray_m\source\repos\FundListLab\02GaussTrick\bin\Debug\netcoreapp3.1\02GaussTrick.deps.json
+C:\Users\ray_m\source\repos\FundListLab\02GaussTrick\bin\Debug\netcoreapp3.1\02GaussTrick.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundListLab\02GaussTrick\bin\Debug\netcoreapp3.1\02GaussTrick.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundListLab\02GaussTrick\bin\Debug\netcoreapp3.1\02GaussTrick.dll
+C:\Users\ray_m\source\repos\FundListLab\02GaussTrick\bin\Debug\netcoreapp3.1\02GaussTrick.pdb
+C:\Users\ray_m\source\repos\FundListLab\02GaussTrick\obj\Debug\netcoreapp3.1\02GaussTrick.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\FundListLab\02GaussTrick\obj\Debug\netcoreapp3.1\02GaussTrick.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundListLab\02GaussTrick\obj\Debug\netcoreapp3.1\02GaussTrick.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundListLab\02GaussTrick\obj\Debug\netcoreapp3.1\02GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundListLab\02GaussTrick\obj\Debug\netcoreapp3.1\02GaussTrick.dll
+C:\Users\ray_m\source\repos\FundListLab\02GaussTrick\obj\Debug\netcoreapp3.1\02GaussTrick.pdb
+C:\Users\ray_m\source\repos\FundListLab\02GaussTrick\obj\Debug\netcoreapp3.1\02GaussTrick.genruntimeconfig.cache

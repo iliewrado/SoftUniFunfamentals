@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundListLab\07ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07ListManipulationAdvanced.exe
+C:\Users\ray_m\source\repos\FundListLab\07ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07ListManipulationAdvanced.deps.json
+C:\Users\ray_m\source\repos\FundListLab\07ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07ListManipulationAdvanced.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundListLab\07ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07ListManipulationAdvanced.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundListLab\07ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07ListManipulationAdvanced.dll
+C:\Users\ray_m\source\repos\FundListLab\07ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07ListManipulationAdvanced.pdb
+C:\Users\ray_m\source\repos\FundListLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundListLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundListLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundListLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.dll
+C:\Users\ray_m\source\repos\FundListLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.pdb
+C:\Users\ray_m\source\repos\FundListLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.genruntimeconfig.cache
+C:\Users\ray_m\source\repos\FundListLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.csprojAssemblyReference.cache
