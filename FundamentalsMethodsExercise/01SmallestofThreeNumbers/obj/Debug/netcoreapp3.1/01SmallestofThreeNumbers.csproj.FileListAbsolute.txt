@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\01SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\01SmallestofThreeNumbers.exe
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\01SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\01SmallestofThreeNumbers.deps.json
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\01SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\01SmallestofThreeNumbers.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\01SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\01SmallestofThreeNumbers.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\01SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\01SmallestofThreeNumbers.dll
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\01SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\01SmallestofThreeNumbers.pdb
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\01SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\01SmallestofThreeNumbers.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\01SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\01SmallestofThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\01SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\01SmallestofThreeNumbers.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\01SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\01SmallestofThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\01SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\01SmallestofThreeNumbers.dll
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\01SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\01SmallestofThreeNumbers.pdb
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\01SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\01SmallestofThreeNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\MethodsLab\07RepeatString\bin\Debug\netcoreapp3.1\07RepeatString.exe
+C:\Users\ray_m\source\repos\MethodsLab\07RepeatString\bin\Debug\netcoreapp3.1\07RepeatString.deps.json
+C:\Users\ray_m\source\repos\MethodsLab\07RepeatString\bin\Debug\netcoreapp3.1\07RepeatString.runtimeconfig.json
+C:\Users\ray_m\source\repos\MethodsLab\07RepeatString\bin\Debug\netcoreapp3.1\07RepeatString.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\MethodsLab\07RepeatString\bin\Debug\netcoreapp3.1\07RepeatString.dll
+C:\Users\ray_m\source\repos\MethodsLab\07RepeatString\bin\Debug\netcoreapp3.1\07RepeatString.pdb
+C:\Users\ray_m\source\repos\MethodsLab\07RepeatString\obj\Debug\netcoreapp3.1\07RepeatString.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\MethodsLab\07RepeatString\obj\Debug\netcoreapp3.1\07RepeatString.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\MethodsLab\07RepeatString\obj\Debug\netcoreapp3.1\07RepeatString.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\MethodsLab\07RepeatString\obj\Debug\netcoreapp3.1\07RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\MethodsLab\07RepeatString\obj\Debug\netcoreapp3.1\07RepeatString.dll
+C:\Users\ray_m\source\repos\MethodsLab\07RepeatString\obj\Debug\netcoreapp3.1\07RepeatString.pdb
+C:\Users\ray_m\source\repos\MethodsLab\07RepeatString\obj\Debug\netcoreapp3.1\07RepeatString.genruntimeconfig.cache

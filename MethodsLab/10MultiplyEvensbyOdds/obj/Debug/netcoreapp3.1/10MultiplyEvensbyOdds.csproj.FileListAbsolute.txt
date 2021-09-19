@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\MethodsLab\10MultiplyEvensbyOdds\bin\Debug\netcoreapp3.1\10MultiplyEvensbyOdds.exe
+C:\Users\ray_m\source\repos\MethodsLab\10MultiplyEvensbyOdds\bin\Debug\netcoreapp3.1\10MultiplyEvensbyOdds.deps.json
+C:\Users\ray_m\source\repos\MethodsLab\10MultiplyEvensbyOdds\bin\Debug\netcoreapp3.1\10MultiplyEvensbyOdds.runtimeconfig.json
+C:\Users\ray_m\source\repos\MethodsLab\10MultiplyEvensbyOdds\bin\Debug\netcoreapp3.1\10MultiplyEvensbyOdds.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\MethodsLab\10MultiplyEvensbyOdds\bin\Debug\netcoreapp3.1\10MultiplyEvensbyOdds.dll
+C:\Users\ray_m\source\repos\MethodsLab\10MultiplyEvensbyOdds\bin\Debug\netcoreapp3.1\10MultiplyEvensbyOdds.pdb
+C:\Users\ray_m\source\repos\MethodsLab\10MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensbyOdds.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\MethodsLab\10MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensbyOdds.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\MethodsLab\10MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensbyOdds.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\MethodsLab\10MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensbyOdds.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\MethodsLab\10MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensbyOdds.dll
+C:\Users\ray_m\source\repos\MethodsLab\10MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensbyOdds.pdb
+C:\Users\ray_m\source\repos\MethodsLab\10MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensbyOdds.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\05AddandSubtract\bin\Debug\netcoreapp3.1\05AddandSubtract.exe
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\05AddandSubtract\bin\Debug\netcoreapp3.1\05AddandSubtract.deps.json
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\05AddandSubtract\bin\Debug\netcoreapp3.1\05AddandSubtract.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\05AddandSubtract\bin\Debug\netcoreapp3.1\05AddandSubtract.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\05AddandSubtract\bin\Debug\netcoreapp3.1\05AddandSubtract.dll
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\05AddandSubtract\bin\Debug\netcoreapp3.1\05AddandSubtract.pdb
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\05AddandSubtract\obj\Debug\netcoreapp3.1\05AddandSubtract.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\05AddandSubtract\obj\Debug\netcoreapp3.1\05AddandSubtract.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\05AddandSubtract\obj\Debug\netcoreapp3.1\05AddandSubtract.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\05AddandSubtract\obj\Debug\netcoreapp3.1\05AddandSubtract.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\05AddandSubtract\obj\Debug\netcoreapp3.1\05AddandSubtract.dll
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\05AddandSubtract\obj\Debug\netcoreapp3.1\05AddandSubtract.pdb
+C:\Users\ray_m\source\repos\FundamentalsMethodsExercise\05AddandSubtract\obj\Debug\netcoreapp3.1\05AddandSubtract.genruntimeconfig.cache

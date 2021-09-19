@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\MethodsLab\02Grades\bin\Debug\netcoreapp3.1\02Grades.exe
+C:\Users\ray_m\source\repos\MethodsLab\02Grades\bin\Debug\netcoreapp3.1\02Grades.deps.json
+C:\Users\ray_m\source\repos\MethodsLab\02Grades\bin\Debug\netcoreapp3.1\02Grades.runtimeconfig.json
+C:\Users\ray_m\source\repos\MethodsLab\02Grades\bin\Debug\netcoreapp3.1\02Grades.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\MethodsLab\02Grades\bin\Debug\netcoreapp3.1\02Grades.dll
+C:\Users\ray_m\source\repos\MethodsLab\02Grades\bin\Debug\netcoreapp3.1\02Grades.pdb
+C:\Users\ray_m\source\repos\MethodsLab\02Grades\obj\Debug\netcoreapp3.1\02Grades.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\MethodsLab\02Grades\obj\Debug\netcoreapp3.1\02Grades.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\MethodsLab\02Grades\obj\Debug\netcoreapp3.1\02Grades.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\MethodsLab\02Grades\obj\Debug\netcoreapp3.1\02Grades.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\MethodsLab\02Grades\obj\Debug\netcoreapp3.1\02Grades.dll
+C:\Users\ray_m\source\repos\MethodsLab\02Grades\obj\Debug\netcoreapp3.1\02Grades.pdb
+C:\Users\ray_m\source\repos\MethodsLab\02Grades\obj\Debug\netcoreapp3.1\02Grades.genruntimeconfig.cache
