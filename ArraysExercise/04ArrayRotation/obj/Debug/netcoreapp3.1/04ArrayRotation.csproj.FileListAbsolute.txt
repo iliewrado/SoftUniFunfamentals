@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\ArraysExercise\04ArrayRotation\bin\Debug\netcoreapp3.1\04ArrayRotation.exe
+C:\Users\ray_m\source\repos\ArraysExercise\04ArrayRotation\bin\Debug\netcoreapp3.1\04ArrayRotation.deps.json
+C:\Users\ray_m\source\repos\ArraysExercise\04ArrayRotation\bin\Debug\netcoreapp3.1\04ArrayRotation.runtimeconfig.json
+C:\Users\ray_m\source\repos\ArraysExercise\04ArrayRotation\bin\Debug\netcoreapp3.1\04ArrayRotation.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\ArraysExercise\04ArrayRotation\bin\Debug\netcoreapp3.1\04ArrayRotation.dll
+C:\Users\ray_m\source\repos\ArraysExercise\04ArrayRotation\bin\Debug\netcoreapp3.1\04ArrayRotation.pdb
+C:\Users\ray_m\source\repos\ArraysExercise\04ArrayRotation\obj\Debug\netcoreapp3.1\04ArrayRotation.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\ArraysExercise\04ArrayRotation\obj\Debug\netcoreapp3.1\04ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\ArraysExercise\04ArrayRotation\obj\Debug\netcoreapp3.1\04ArrayRotation.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\ArraysExercise\04ArrayRotation\obj\Debug\netcoreapp3.1\04ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\ArraysExercise\04ArrayRotation\obj\Debug\netcoreapp3.1\04ArrayRotation.dll
+C:\Users\ray_m\source\repos\ArraysExercise\04ArrayRotation\obj\Debug\netcoreapp3.1\04ArrayRotation.pdb
+C:\Users\ray_m\source\repos\ArraysExercise\04ArrayRotation\obj\Debug\netcoreapp3.1\04ArrayRotation.genruntimeconfig.cache

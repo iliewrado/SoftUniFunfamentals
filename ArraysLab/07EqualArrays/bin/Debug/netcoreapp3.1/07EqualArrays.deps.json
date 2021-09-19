@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "07EqualArrays/1.0.0": {
+        "runtime": {
+          "07EqualArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07EqualArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
