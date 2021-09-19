@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\05NetherRealms\bin\Debug\netcoreapp3.1\05NetherRealms.exe
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\05NetherRealms\bin\Debug\netcoreapp3.1\05NetherRealms.deps.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\05NetherRealms\bin\Debug\netcoreapp3.1\05NetherRealms.runtimeconfig.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\05NetherRealms\bin\Debug\netcoreapp3.1\05NetherRealms.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\05NetherRealms\bin\Debug\netcoreapp3.1\05NetherRealms.dll
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\05NetherRealms\bin\Debug\netcoreapp3.1\05NetherRealms.pdb
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.dll
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.pdb
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\05NetherRealms\obj\Debug\netcoreapp3.1\05NetherRealms.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\03SoftUniBarIncome\bin\Debug\netcoreapp3.1\03SoftUniBarIncome.exe
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\03SoftUniBarIncome\bin\Debug\netcoreapp3.1\03SoftUniBarIncome.deps.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\03SoftUniBarIncome\bin\Debug\netcoreapp3.1\03SoftUniBarIncome.runtimeconfig.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\03SoftUniBarIncome\bin\Debug\netcoreapp3.1\03SoftUniBarIncome.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\03SoftUniBarIncome\bin\Debug\netcoreapp3.1\03SoftUniBarIncome.dll
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\03SoftUniBarIncome\bin\Debug\netcoreapp3.1\03SoftUniBarIncome.pdb
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\03SoftUniBarIncome\obj\Debug\netcoreapp3.1\03SoftUniBarIncome.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\03SoftUniBarIncome\obj\Debug\netcoreapp3.1\03SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\03SoftUniBarIncome\obj\Debug\netcoreapp3.1\03SoftUniBarIncome.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\03SoftUniBarIncome\obj\Debug\netcoreapp3.1\03SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\03SoftUniBarIncome\obj\Debug\netcoreapp3.1\03SoftUniBarIncome.dll
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\03SoftUniBarIncome\obj\Debug\netcoreapp3.1\03SoftUniBarIncome.pdb
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\03SoftUniBarIncome\obj\Debug\netcoreapp3.1\03SoftUniBarIncome.genruntimeconfig.cache

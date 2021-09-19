@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\02Race\bin\Debug\netcoreapp3.1\02Race.exe
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\02Race\bin\Debug\netcoreapp3.1\02Race.deps.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\02Race\bin\Debug\netcoreapp3.1\02Race.runtimeconfig.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\02Race\bin\Debug\netcoreapp3.1\02Race.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\02Race\bin\Debug\netcoreapp3.1\02Race.dll
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\02Race\bin\Debug\netcoreapp3.1\02Race.pdb
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\02Race\obj\Debug\netcoreapp3.1\02Race.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\02Race\obj\Debug\netcoreapp3.1\02Race.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\02Race\obj\Debug\netcoreapp3.1\02Race.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\02Race\obj\Debug\netcoreapp3.1\02Race.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\02Race\obj\Debug\netcoreapp3.1\02Race.dll
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\02Race\obj\Debug\netcoreapp3.1\02Race.pdb
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\02Race\obj\Debug\netcoreapp3.1\02Race.genruntimeconfig.cache

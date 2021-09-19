@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\04StarEnigma\bin\Debug\netcoreapp3.1\04StarEnigma.exe
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\04StarEnigma\bin\Debug\netcoreapp3.1\04StarEnigma.deps.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\04StarEnigma\bin\Debug\netcoreapp3.1\04StarEnigma.runtimeconfig.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\04StarEnigma\bin\Debug\netcoreapp3.1\04StarEnigma.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\04StarEnigma\bin\Debug\netcoreapp3.1\04StarEnigma.dll
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\04StarEnigma\bin\Debug\netcoreapp3.1\04StarEnigma.pdb
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\04StarEnigma\obj\Debug\netcoreapp3.1\04StarEnigma.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\04StarEnigma\obj\Debug\netcoreapp3.1\04StarEnigma.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\04StarEnigma\obj\Debug\netcoreapp3.1\04StarEnigma.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\04StarEnigma\obj\Debug\netcoreapp3.1\04StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\04StarEnigma\obj\Debug\netcoreapp3.1\04StarEnigma.dll
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\04StarEnigma\obj\Debug\netcoreapp3.1\04StarEnigma.pdb
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\04StarEnigma\obj\Debug\netcoreapp3.1\04StarEnigma.genruntimeconfig.cache

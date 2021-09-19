@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\01Furniture\bin\Debug\netcoreapp3.1\01Furniture.exe
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\01Furniture\bin\Debug\netcoreapp3.1\01Furniture.deps.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\01Furniture\bin\Debug\netcoreapp3.1\01Furniture.runtimeconfig.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\01Furniture\bin\Debug\netcoreapp3.1\01Furniture.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\01Furniture\bin\Debug\netcoreapp3.1\01Furniture.dll
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\01Furniture\bin\Debug\netcoreapp3.1\01Furniture.pdb
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.dll
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.pdb
+C:\Users\ray_m\source\repos\RegularExpressionsExercise\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.genruntimeconfig.cache
