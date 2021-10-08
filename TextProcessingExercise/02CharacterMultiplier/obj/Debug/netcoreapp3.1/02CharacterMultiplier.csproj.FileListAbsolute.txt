@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\TextProcessingExercise\02CharacterMultiplier\bin\Debug\netcoreapp3.1\02CharacterMultiplier.exe
+C:\Users\ray_m\source\repos\TextProcessingExercise\02CharacterMultiplier\bin\Debug\netcoreapp3.1\02CharacterMultiplier.deps.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\02CharacterMultiplier\bin\Debug\netcoreapp3.1\02CharacterMultiplier.runtimeconfig.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\02CharacterMultiplier\bin\Debug\netcoreapp3.1\02CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\02CharacterMultiplier\bin\Debug\netcoreapp3.1\02CharacterMultiplier.dll
+C:\Users\ray_m\source\repos\TextProcessingExercise\02CharacterMultiplier\bin\Debug\netcoreapp3.1\02CharacterMultiplier.pdb
+C:\Users\ray_m\source\repos\TextProcessingExercise\02CharacterMultiplier\obj\Debug\netcoreapp3.1\02CharacterMultiplier.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\02CharacterMultiplier\obj\Debug\netcoreapp3.1\02CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\02CharacterMultiplier\obj\Debug\netcoreapp3.1\02CharacterMultiplier.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\TextProcessingExercise\02CharacterMultiplier\obj\Debug\netcoreapp3.1\02CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\02CharacterMultiplier\obj\Debug\netcoreapp3.1\02CharacterMultiplier.dll
+C:\Users\ray_m\source\repos\TextProcessingExercise\02CharacterMultiplier\obj\Debug\netcoreapp3.1\02CharacterMultiplier.pdb
+C:\Users\ray_m\source\repos\TextProcessingExercise\02CharacterMultiplier\obj\Debug\netcoreapp3.1\02CharacterMultiplier.genruntimeconfig.cache

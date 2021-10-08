@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundTextProcessingLab\01ReverseStrings\bin\Debug\netcoreapp3.1\01ReverseStrings.exe
+C:\Users\ray_m\source\repos\FundTextProcessingLab\01ReverseStrings\bin\Debug\netcoreapp3.1\01ReverseStrings.deps.json
+C:\Users\ray_m\source\repos\FundTextProcessingLab\01ReverseStrings\bin\Debug\netcoreapp3.1\01ReverseStrings.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundTextProcessingLab\01ReverseStrings\bin\Debug\netcoreapp3.1\01ReverseStrings.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundTextProcessingLab\01ReverseStrings\bin\Debug\netcoreapp3.1\01ReverseStrings.dll
+C:\Users\ray_m\source\repos\FundTextProcessingLab\01ReverseStrings\bin\Debug\netcoreapp3.1\01ReverseStrings.pdb
+C:\Users\ray_m\source\repos\FundTextProcessingLab\01ReverseStrings\obj\Debug\netcoreapp3.1\01ReverseStrings.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\FundTextProcessingLab\01ReverseStrings\obj\Debug\netcoreapp3.1\01ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundTextProcessingLab\01ReverseStrings\obj\Debug\netcoreapp3.1\01ReverseStrings.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundTextProcessingLab\01ReverseStrings\obj\Debug\netcoreapp3.1\01ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundTextProcessingLab\01ReverseStrings\obj\Debug\netcoreapp3.1\01ReverseStrings.dll
+C:\Users\ray_m\source\repos\FundTextProcessingLab\01ReverseStrings\obj\Debug\netcoreapp3.1\01ReverseStrings.pdb
+C:\Users\ray_m\source\repos\FundTextProcessingLab\01ReverseStrings\obj\Debug\netcoreapp3.1\01ReverseStrings.genruntimeconfig.cache

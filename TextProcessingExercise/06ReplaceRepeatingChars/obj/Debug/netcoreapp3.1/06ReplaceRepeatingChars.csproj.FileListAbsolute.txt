@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\TextProcessingExercise\06ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06ReplaceRepeatingChars.exe
+C:\Users\ray_m\source\repos\TextProcessingExercise\06ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06ReplaceRepeatingChars.deps.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\06ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\06ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06ReplaceRepeatingChars.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\06ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06ReplaceRepeatingChars.dll
+C:\Users\ray_m\source\repos\TextProcessingExercise\06ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06ReplaceRepeatingChars.pdb
+C:\Users\ray_m\source\repos\TextProcessingExercise\06ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06ReplaceRepeatingChars.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\06ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\06ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\TextProcessingExercise\06ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\06ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06ReplaceRepeatingChars.dll
+C:\Users\ray_m\source\repos\TextProcessingExercise\06ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06ReplaceRepeatingChars.pdb
+C:\Users\ray_m\source\repos\TextProcessingExercise\06ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06ReplaceRepeatingChars.genruntimeconfig.cache

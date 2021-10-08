@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\TextProcessingExercise\08LettersChangeNumbers\bin\Debug\netcoreapp3.1\08LettersChangeNumbers.exe
+C:\Users\ray_m\source\repos\TextProcessingExercise\08LettersChangeNumbers\bin\Debug\netcoreapp3.1\08LettersChangeNumbers.deps.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\08LettersChangeNumbers\bin\Debug\netcoreapp3.1\08LettersChangeNumbers.runtimeconfig.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\08LettersChangeNumbers\bin\Debug\netcoreapp3.1\08LettersChangeNumbers.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\08LettersChangeNumbers\bin\Debug\netcoreapp3.1\08LettersChangeNumbers.dll
+C:\Users\ray_m\source\repos\TextProcessingExercise\08LettersChangeNumbers\bin\Debug\netcoreapp3.1\08LettersChangeNumbers.pdb
+C:\Users\ray_m\source\repos\TextProcessingExercise\08LettersChangeNumbers\obj\Debug\netcoreapp3.1\08LettersChangeNumbers.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\08LettersChangeNumbers\obj\Debug\netcoreapp3.1\08LettersChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\08LettersChangeNumbers\obj\Debug\netcoreapp3.1\08LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\TextProcessingExercise\08LettersChangeNumbers\obj\Debug\netcoreapp3.1\08LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\08LettersChangeNumbers\obj\Debug\netcoreapp3.1\08LettersChangeNumbers.dll
+C:\Users\ray_m\source\repos\TextProcessingExercise\08LettersChangeNumbers\obj\Debug\netcoreapp3.1\08LettersChangeNumbers.pdb
+C:\Users\ray_m\source\repos\TextProcessingExercise\08LettersChangeNumbers\obj\Debug\netcoreapp3.1\08LettersChangeNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\TextProcessingExercise\04CaesarCipher\bin\Debug\netcoreapp3.1\04CaesarCipher.exe
+C:\Users\ray_m\source\repos\TextProcessingExercise\04CaesarCipher\bin\Debug\netcoreapp3.1\04CaesarCipher.deps.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\04CaesarCipher\bin\Debug\netcoreapp3.1\04CaesarCipher.runtimeconfig.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\04CaesarCipher\bin\Debug\netcoreapp3.1\04CaesarCipher.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\04CaesarCipher\bin\Debug\netcoreapp3.1\04CaesarCipher.dll
+C:\Users\ray_m\source\repos\TextProcessingExercise\04CaesarCipher\bin\Debug\netcoreapp3.1\04CaesarCipher.pdb
+C:\Users\ray_m\source\repos\TextProcessingExercise\04CaesarCipher\obj\Debug\netcoreapp3.1\04CaesarCipher.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\04CaesarCipher\obj\Debug\netcoreapp3.1\04CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\04CaesarCipher\obj\Debug\netcoreapp3.1\04CaesarCipher.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\TextProcessingExercise\04CaesarCipher\obj\Debug\netcoreapp3.1\04CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\04CaesarCipher\obj\Debug\netcoreapp3.1\04CaesarCipher.dll
+C:\Users\ray_m\source\repos\TextProcessingExercise\04CaesarCipher\obj\Debug\netcoreapp3.1\04CaesarCipher.pdb
+C:\Users\ray_m\source\repos\TextProcessingExercise\04CaesarCipher\obj\Debug\netcoreapp3.1\04CaesarCipher.genruntimeconfig.cache

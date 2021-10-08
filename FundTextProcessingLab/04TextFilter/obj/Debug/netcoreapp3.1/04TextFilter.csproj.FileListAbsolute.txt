@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundTextProcessingLab\04TextFilter\bin\Debug\netcoreapp3.1\04TextFilter.exe
+C:\Users\ray_m\source\repos\FundTextProcessingLab\04TextFilter\bin\Debug\netcoreapp3.1\04TextFilter.deps.json
+C:\Users\ray_m\source\repos\FundTextProcessingLab\04TextFilter\bin\Debug\netcoreapp3.1\04TextFilter.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundTextProcessingLab\04TextFilter\bin\Debug\netcoreapp3.1\04TextFilter.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundTextProcessingLab\04TextFilter\bin\Debug\netcoreapp3.1\04TextFilter.dll
+C:\Users\ray_m\source\repos\FundTextProcessingLab\04TextFilter\bin\Debug\netcoreapp3.1\04TextFilter.pdb
+C:\Users\ray_m\source\repos\FundTextProcessingLab\04TextFilter\obj\Debug\netcoreapp3.1\04TextFilter.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\FundTextProcessingLab\04TextFilter\obj\Debug\netcoreapp3.1\04TextFilter.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundTextProcessingLab\04TextFilter\obj\Debug\netcoreapp3.1\04TextFilter.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundTextProcessingLab\04TextFilter\obj\Debug\netcoreapp3.1\04TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundTextProcessingLab\04TextFilter\obj\Debug\netcoreapp3.1\04TextFilter.dll
+C:\Users\ray_m\source\repos\FundTextProcessingLab\04TextFilter\obj\Debug\netcoreapp3.1\04TextFilter.pdb
+C:\Users\ray_m\source\repos\FundTextProcessingLab\04TextFilter\obj\Debug\netcoreapp3.1\04TextFilter.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\TextProcessingExercise\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.exe
+C:\Users\ray_m\source\repos\TextProcessingExercise\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.deps.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.runtimeconfig.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\TextProcessingExercise\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.dll
+C:\Users\ray_m\source\repos\TextProcessingExercise\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.pdb
+C:\Users\ray_m\source\repos\TextProcessingExercise\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\TextProcessingExercise\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\TextProcessingExercise\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.dll
+C:\Users\ray_m\source\repos\TextProcessingExercise\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.pdb
+C:\Users\ray_m\source\repos\TextProcessingExercise\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.genruntimeconfig.cache

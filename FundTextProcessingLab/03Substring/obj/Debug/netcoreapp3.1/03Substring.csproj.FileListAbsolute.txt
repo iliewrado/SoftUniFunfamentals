@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundTextProcessingLab\03Substring\bin\Debug\netcoreapp3.1\03Substring.exe
+C:\Users\ray_m\source\repos\FundTextProcessingLab\03Substring\bin\Debug\netcoreapp3.1\03Substring.deps.json
+C:\Users\ray_m\source\repos\FundTextProcessingLab\03Substring\bin\Debug\netcoreapp3.1\03Substring.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundTextProcessingLab\03Substring\bin\Debug\netcoreapp3.1\03Substring.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundTextProcessingLab\03Substring\bin\Debug\netcoreapp3.1\03Substring.dll
+C:\Users\ray_m\source\repos\FundTextProcessingLab\03Substring\bin\Debug\netcoreapp3.1\03Substring.pdb
+C:\Users\ray_m\source\repos\FundTextProcessingLab\03Substring\obj\Debug\netcoreapp3.1\03Substring.csproj.AssemblyReference.cache
+C:\Users\ray_m\source\repos\FundTextProcessingLab\03Substring\obj\Debug\netcoreapp3.1\03Substring.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundTextProcessingLab\03Substring\obj\Debug\netcoreapp3.1\03Substring.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundTextProcessingLab\03Substring\obj\Debug\netcoreapp3.1\03Substring.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundTextProcessingLab\03Substring\obj\Debug\netcoreapp3.1\03Substring.dll
+C:\Users\ray_m\source\repos\FundTextProcessingLab\03Substring\obj\Debug\netcoreapp3.1\03Substring.pdb
+C:\Users\ray_m\source\repos\FundTextProcessingLab\03Substring\obj\Debug\netcoreapp3.1\03Substring.genruntimeconfig.cache
