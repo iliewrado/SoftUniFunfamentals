@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\03Articles20\bin\Debug\netcoreapp3.1\03Articles20.exe
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\03Articles20\bin\Debug\netcoreapp3.1\03Articles20.deps.json
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\03Articles20\bin\Debug\netcoreapp3.1\03Articles20.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\03Articles20\bin\Debug\netcoreapp3.1\03Articles20.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\03Articles20\bin\Debug\netcoreapp3.1\03Articles20.dll
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\03Articles20\bin\Debug\netcoreapp3.1\03Articles20.pdb
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\03Articles20\obj\Debug\netcoreapp3.1\03Articles20.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\03Articles20\obj\Debug\netcoreapp3.1\03Articles20.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\03Articles20\obj\Debug\netcoreapp3.1\03Articles20.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\03Articles20\obj\Debug\netcoreapp3.1\03Articles20.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\03Articles20\obj\Debug\netcoreapp3.1\03Articles20.dll
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\03Articles20\obj\Debug\netcoreapp3.1\03Articles20.pdb
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\03Articles20\obj\Debug\netcoreapp3.1\03Articles20.genruntimeconfig.cache

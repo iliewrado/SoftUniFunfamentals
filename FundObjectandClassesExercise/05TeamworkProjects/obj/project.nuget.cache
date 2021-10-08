@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/sFs2SHx976xa5WpMbP4TGMLmAdtlgV8X3Od4ZHwzxV/JFPP20L0jwO7hPmpOjboiQ8GUsbb7d1Q29MUS/DmYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ray_m\\source\\repos\\FundObjectandClassesExercise\\05TeamworkProjects\\05TeamworkProjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ray_m\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ray_m\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ray_m\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\ray_m\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

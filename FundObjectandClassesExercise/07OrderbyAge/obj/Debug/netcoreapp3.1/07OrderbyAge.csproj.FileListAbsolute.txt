@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\07OrderbyAge\bin\Debug\netcoreapp3.1\07OrderbyAge.exe
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\07OrderbyAge\bin\Debug\netcoreapp3.1\07OrderbyAge.deps.json
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\07OrderbyAge\bin\Debug\netcoreapp3.1\07OrderbyAge.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\07OrderbyAge\bin\Debug\netcoreapp3.1\07OrderbyAge.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\07OrderbyAge\bin\Debug\netcoreapp3.1\07OrderbyAge.dll
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\07OrderbyAge\bin\Debug\netcoreapp3.1\07OrderbyAge.pdb
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\07OrderbyAge\obj\Debug\netcoreapp3.1\07OrderbyAge.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\07OrderbyAge\obj\Debug\netcoreapp3.1\07OrderbyAge.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\07OrderbyAge\obj\Debug\netcoreapp3.1\07OrderbyAge.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\07OrderbyAge\obj\Debug\netcoreapp3.1\07OrderbyAge.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\07OrderbyAge\obj\Debug\netcoreapp3.1\07OrderbyAge.dll
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\07OrderbyAge\obj\Debug\netcoreapp3.1\07OrderbyAge.pdb
+C:\Users\ray_m\source\repos\FundObjectandClassesExercise\07OrderbyAge\obj\Debug\netcoreapp3.1\07OrderbyAge.genruntimeconfig.cache

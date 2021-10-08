@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\03Songs\bin\Debug\netcoreapp3.1\03Songs.exe
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\03Songs\bin\Debug\netcoreapp3.1\03Songs.deps.json
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\03Songs\bin\Debug\netcoreapp3.1\03Songs.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\03Songs\bin\Debug\netcoreapp3.1\03Songs.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\03Songs\bin\Debug\netcoreapp3.1\03Songs.dll
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\03Songs\bin\Debug\netcoreapp3.1\03Songs.pdb
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\03Songs\obj\Debug\netcoreapp3.1\03Songs.csprojAssemblyReference.cache
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\03Songs\obj\Debug\netcoreapp3.1\03Songs.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\03Songs\obj\Debug\netcoreapp3.1\03Songs.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\03Songs\obj\Debug\netcoreapp3.1\03Songs.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\03Songs\obj\Debug\netcoreapp3.1\03Songs.dll
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\03Songs\obj\Debug\netcoreapp3.1\03Songs.pdb
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\03Songs\obj\Debug\netcoreapp3.1\03Songs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\07VehicleCatalogue\bin\Debug\netcoreapp3.1\07VehicleCatalogue.exe
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\07VehicleCatalogue\bin\Debug\netcoreapp3.1\07VehicleCatalogue.deps.json
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\07VehicleCatalogue\bin\Debug\netcoreapp3.1\07VehicleCatalogue.runtimeconfig.json
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\07VehicleCatalogue\bin\Debug\netcoreapp3.1\07VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\07VehicleCatalogue\bin\Debug\netcoreapp3.1\07VehicleCatalogue.dll
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\07VehicleCatalogue\bin\Debug\netcoreapp3.1\07VehicleCatalogue.pdb
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.AssemblyInfo.cs
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.dll
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.pdb
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.genruntimeconfig.cache
+C:\Users\ray_m\source\repos\FundObjecktsandClasses\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.csprojAssemblyReference.cache
